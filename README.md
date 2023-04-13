@@ -1,2 +1,5 @@
 # leetcode-libary
-self-Learning
+self-Learning, By python.
+
+## contents
+
