@@ -22,4 +22,11 @@ self-Learning, By python.
 * [709.转换成小写字母](/leetcode%20of%20intro%20plane/709.%20%E8%BD%AC%E6%8D%A2%E6%88%90%E5%B0%8F%E5%86%99%E5%AD%97%E6%AF%8D.ipynb)
 * [258.各位相加](/leetcode%20of%20intro%20plane/258.%20%E5%90%84%E4%BD%8D%E7%9B%B8%E5%8A%A0.ipynb)
 * [1281.整数的各位积和之差](/leetcode%20of%20intro%20plane/1281.%20%E6%95%B4%E6%95%B0%E7%9A%84%E5%90%84%E4%BD%8D%E7%A7%AF%E5%92%8C%E4%B9%8B%E5%B7%AE.ipynb)
-* 
+* [231.2的幂](/leetcode%20of%20intro%20plane/231.%202%20%E7%9A%84%E5%B9%82.ipynb)
+* [326.3的幂](/leetcode%20of%20intro%20plane/326.%203%20%E7%9A%84%E5%B9%82.ipynb)
+* [263.丑数](/leetcode%20of%20intro%20plane/263.%20%E4%B8%91%E6%95%B0.ipynb)
+* [1470.重新排列数组](/leetcode%20of%20intro%20plane/1470.%20%E9%87%8D%E6%96%B0%E6%8E%92%E5%88%97%E6%95%B0%E7%BB%84.ipynb)
+* [867.转置矩阵](/leetcode%20of%20intro%20plane/867.%20%E8%BD%AC%E7%BD%AE%E7%9F%A9%E9%98%B5.ipynb)
+* [1422.分割字符串的最大得分](/leetcode%20of%20intro%20plane/1422.%20%E5%88%86%E5%89%B2%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%9C%80%E5%A4%A7%E5%BE%97%E5%88%86.ipynb)
+* [2586.统计范围内的元音字符串数](/leetcode%20of%20intro%20plane/2586.%20%E7%BB%9F%E8%AE%A1%E8%8C%83%E5%9B%B4%E5%86%85%E7%9A%84%E5%85%83%E9%9F%B3%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%95%B0.ipynb)
+* [852.山脉数组的峰顶索引](/leetcode%20of%20intro%20plane/852.%20%E5%B1%B1%E8%84%89%E6%95%B0%E7%BB%84%E7%9A%84%E5%B3%B0%E9%A1%B6%E7%B4%A2%E5%BC%95.ipynb)
